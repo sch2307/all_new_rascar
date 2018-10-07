@@ -1,0 +1,6 @@
+.idea/*
+config
+.DS_Store
+*/__pycache__
+*/cpuinfo
+*.pyc
